@@ -1,4 +1,4 @@
 # GGJTeam3
 
-Ignore PlayerController needs to be deleted/n
-Also Ignore GJJ Scripts 
+Ignore PlayerController and GGJ needs to be deleted
+
